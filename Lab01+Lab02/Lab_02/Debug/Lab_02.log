@@ -1,0 +1,14 @@
+﻿Сборка начата 21.09.2022 17:17:55.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\LABSC++\HelloWorldd\Lab_02\Lab_02.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab_02.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab02.cpp
+         lab02.cpp
+     1>Сборка проекта "C:\Users\user\Desktop\LABSC++\HelloWorldd\Lab_02\Lab_02.vcxproj" завершена (целевые объекты ClCompile).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.01

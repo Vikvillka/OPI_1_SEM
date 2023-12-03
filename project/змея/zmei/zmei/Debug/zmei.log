@@ -1,0 +1,19 @@
+﻿Сборка начата 19.02.2023 13:55:41.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\лабы 1 сем\LABS_OPI\змея\zmei\zmei\zmei.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\zmei.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         zmei.vcxproj -> C:\Users\user\Desktop\лабы 1 сем\LABS_OPI\змея\zmei\Debug\zmei.exe
+       FinalizeBuildStatus:
+         Файл "Debug\zmei.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\zmei.tlog\zmei.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\лабы 1 сем\LABS_OPI\змея\zmei\zmei\zmei.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.25
